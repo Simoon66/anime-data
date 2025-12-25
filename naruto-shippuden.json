@@ -3,18 +3,18 @@
   "episodes": [
     {
       "ep": 1,
-      "title": "Skill sampah ternyata berguna",
+      "title": "Enter: Naruto Uzumaki!",
       "files": [
-        { "label": "Sub", "url": "https://megaplay.buzz/stream/s-2/7882/sub" },
-        { "label": "Sub-2", "url": "https://megaplay.buzz/stream/s-3/7882/sub" }
+        { "label": "Sub", "url": "https://megaplay.buzz/stream/s-4/7882/sub" },
+        { "label": "Dub", "url": "https://megaplay.buzz/stream/s-4/7882/dub" }
       ]
     },
     {
       "ep": 2,
-      "title": "Pelihara anjing eh ternyata monster legendaris",
+      "title": "My Name is Konohamaru!",
       "files": [
-        { "label": "Sub", "url": "https://www.youtube.com/embed/McUhujU8QzQ" },
-        { "label": "Dub", "url": "https://www.youtube.com/embed/wJYbLZ323zM" }
+        { "label": "Sub", "url": "https://www.youtube.com/embed/AAAA" },
+        { "label": "Dub", "url": "https://www.youtube.com/embed/BBBB" }
       ]
     }
   ]
