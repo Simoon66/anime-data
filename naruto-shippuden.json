@@ -1,0 +1,21 @@
+{
+  "poster": "https://image.tmdb.org/t/p/original/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+  "episodes": [
+    {
+      "ep": 1,
+      "title": "Skill sampah ternyata berguna",
+      "files": [
+        { "label": "Sub", "url": "https://megaplay.buzz/stream/s-2/7882/sub" },
+        { "label": "Sub-2", "url": "https://megaplay.buzz/stream/s-3/7882/sub" }
+      ]
+    },
+    {
+      "ep": 2,
+      "title": "Pelihara anjing eh ternyata monster legendaris",
+      "files": [
+        { "label": "Sub", "url": "https://www.youtube.com/embed/McUhujU8QzQ" },
+        { "label": "Dub", "url": "https://www.youtube.com/embed/wJYbLZ323zM" }
+      ]
+    }
+  ]
+}
